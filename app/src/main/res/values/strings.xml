@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GFG Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="feeds_fragment_label">Feeds</string>
+
+    <string name="no_feeds_yet">No Feeds Yet!!</string>
+</resources>
